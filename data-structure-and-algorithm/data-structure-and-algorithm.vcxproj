@@ -142,6 +142,8 @@
     <ClCompile Include="DataStructure\Queue.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Search\BinarySearch.cpp" />
+    <ClCompile Include="Sort\CountingSort.cpp" />
+    <ClCompile Include="Sort\MergeSort.cpp" />
     <ClCompile Include="Sort\RadixSort.cpp" />
   </ItemGroup>
   <ItemGroup>
