@@ -1,6 +1,7 @@
 #include "header.h"
 #include <iostream>
 #include <algorithm>
+#include <vector>
 
 using namespace std;
 
@@ -12,8 +13,7 @@ void main(void)
 
 	for (int i = 0; i < 5; i++)
 	{
-		if (BinarySearch(a, 5, b[i])) {
-			cout << "exist" << endl;
-		}
+		cout << BinarySearch(a, 5, b[i]) << endl;
+		cout << LinearSearch(a, 5, b[i]) << endl;
 	}
 }

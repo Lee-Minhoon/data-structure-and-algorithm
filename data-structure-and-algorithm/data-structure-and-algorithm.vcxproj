@@ -147,6 +147,7 @@
     <ClInclude Include="Search\BinarySearch.hpp" />
     <ClInclude Include="DataStructure\DataStructures.h" />
     <ClInclude Include="header.h" />
+    <ClInclude Include="Search\LinearSearch.hpp" />
     <ClInclude Include="Search\Searches.h" />
     <ClInclude Include="Sort\Sorts.h" />
   </ItemGroup>
