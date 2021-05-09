@@ -2,7 +2,7 @@
 #define HEADER_H
 
 #include "DataStructure/DataStructures.h"
-#include "Search/Searches.h"
+#include "Search/BinarySearch.hpp"
 #include "Sort/Sorts.h"
 
 #endif

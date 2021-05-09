@@ -141,12 +141,10 @@
   <ItemGroup>
     <ClCompile Include="DataStructure\Queue.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Search\BinarySearch.cpp" />
-    <ClCompile Include="Sort\CountingSort.cpp" />
-    <ClCompile Include="Sort\MergeSort.cpp" />
     <ClCompile Include="Sort\RadixSort.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Search\BinarySearch.hpp" />
     <ClInclude Include="DataStructure\DataStructures.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="Search\Searches.h" />
