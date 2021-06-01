@@ -1,6 +1,8 @@
 #ifndef INSERTIONSORT_H
 #define INSERTIONSORT_H
 
+#include "../header.h"
+
 template <typename T>
 void InsertionSort(T arr[], int len)
 {

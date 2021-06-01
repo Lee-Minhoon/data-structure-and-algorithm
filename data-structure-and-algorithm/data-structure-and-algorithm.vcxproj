@@ -144,6 +144,8 @@
     <ClCompile Include="Sort\RadixSort.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BASIC\Basic.h" />
+    <ClInclude Include="BASIC\Swap.hpp" />
     <ClInclude Include="Search\BinarySearch.hpp" />
     <ClInclude Include="DataStructure\DataStructures.h" />
     <ClInclude Include="header.h" />
@@ -151,6 +153,8 @@
     <ClInclude Include="Search\Searches.h" />
     <ClInclude Include="Sort\BubbleSort.hpp" />
     <ClInclude Include="Sort\InsertionSort.hpp" />
+    <ClInclude Include="Sort\MergeSort.hpp" />
+    <ClInclude Include="Sort\QuickSort.hpp" />
     <ClInclude Include="Sort\SelectionSort.hpp" />
     <ClInclude Include="Sort\Sorts.h" />
   </ItemGroup>
