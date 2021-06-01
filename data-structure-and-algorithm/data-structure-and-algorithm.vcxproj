@@ -149,6 +149,9 @@
     <ClInclude Include="header.h" />
     <ClInclude Include="Search\LinearSearch.hpp" />
     <ClInclude Include="Search\Searches.h" />
+    <ClInclude Include="Sort\BubbleSort.hpp" />
+    <ClInclude Include="Sort\InsertionSort.hpp" />
+    <ClInclude Include="Sort\SelectionSort.hpp" />
     <ClInclude Include="Sort\Sorts.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
