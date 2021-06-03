@@ -141,22 +141,14 @@
   <ItemGroup>
     <ClCompile Include="DataStructure\Queue.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Sort\RadixSort.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BASIC\Basic.h" />
-    <ClInclude Include="BASIC\Swap.hpp" />
-    <ClInclude Include="Search\BinarySearch.hpp" />
+    <ClInclude Include="BASIC\Basic.hpp" />
     <ClInclude Include="DataStructure\DataStructures.h" />
     <ClInclude Include="header.h" />
-    <ClInclude Include="Search\LinearSearch.hpp" />
-    <ClInclude Include="Search\Searches.h" />
-    <ClInclude Include="Sort\BubbleSort.hpp" />
-    <ClInclude Include="Sort\InsertionSort.hpp" />
-    <ClInclude Include="Sort\MergeSort.hpp" />
-    <ClInclude Include="Sort\QuickSort.hpp" />
-    <ClInclude Include="Sort\SelectionSort.hpp" />
-    <ClInclude Include="Sort\Sorts.h" />
+    <ClInclude Include="Math\NumberTheory.hpp" />
+    <ClInclude Include="Search\Searches.hpp" />
+    <ClInclude Include="Sort\Sorts.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

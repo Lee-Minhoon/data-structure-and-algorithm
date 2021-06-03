@@ -18,9 +18,6 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Sort\RadixSort.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="DataStructure\Queue.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -29,40 +26,19 @@
     <ClInclude Include="DataStructure\DataStructures.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Search\Searches.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Sort\Sorts.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="header.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Search\BinarySearch.hpp">
+    <ClInclude Include="Sort\Sorts.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Search\LinearSearch.hpp">
+    <ClInclude Include="BASIC\Basic.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Sort\SelectionSort.hpp">
+    <ClInclude Include="Math\NumberTheory.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Sort\InsertionSort.hpp">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Sort\BubbleSort.hpp">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Sort\MergeSort.hpp">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Sort\QuickSort.hpp">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="BASIC\Swap.hpp">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="BASIC\Basic.h">
+    <ClInclude Include="Search\Searches.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
