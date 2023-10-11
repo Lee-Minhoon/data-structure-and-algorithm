@@ -3,13 +3,11 @@
 
 #include "../header.h"
 
-
 //==================================================
 // 선택 정렬(Selection Sort) ===== n^2
 // 삽입 정렬(Insertion Sort) ===== n^2
 // 버블 정렬(Bubble Sort) ======== n^2
 // 합병 정렬(Merge Sort) ========= n log n
-// 퀵 정렬(Quick Sort) =========== n log n
 // 기수 정렬(Radix Sort) ========= n
 // 계수 정렬(Counting Sort) ====== n
 //==================================================

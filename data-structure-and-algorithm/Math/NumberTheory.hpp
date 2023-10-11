@@ -3,20 +3,16 @@
 
 #include "../header.h"
 
-template <typename T>
-bool getSign(T num)
-{
-	if (num > 0) {
-		return true;
-	}
-	else {
-		return false;
-	}
-}
-
+// 최대공약수
 int gcd(int a, int b)
 {
 	return b ? gcd(b, a % b) : a;
 }
 
-#endif
+// 삼각수
+int triangularNumber(int n)
+{
+	return n * (n + 1) / 2;
+}
+
+#endif	

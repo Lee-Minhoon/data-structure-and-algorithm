@@ -10,6 +10,17 @@ void swap(T arr[], const int& a, const int& b)
 }
 
 template <typename T>
+bool getSign(T num)
+{
+    if (num > 0) {
+        return true;
+    }
+    else {
+        return false;
+    }
+}
+
+template <typename T>
 T getMaxValue(T arr[], const int& len)
 {
     T temp = 0;
